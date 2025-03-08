@@ -1,7 +1,7 @@
-# Audio Captcha.ipynb
+# Audio Captcha Solver
 
-This Jupyter Notebook contains the main workflow for processing and evaluating audio CAPTCHA data. 
-The notebook includes steps for finding common files between audio and image datasets, extracting text from images, transcribing audio files, and comparing the accuracy of the transcriptions.
+This file contains the main workflow for processing and evaluating audio CAPTCHA data. 
+The program includes steps for finding common files between audio and image datasets, extracting text from images, transcribing audio files, and comparing the accuracy of the transcriptions.
 
 ## Workflow
 
@@ -24,6 +24,8 @@ The notebook includes steps for finding common files between audio and image dat
 5. **Comparing Accuracy**
    - Compare the extracted and transcribed texts to calculate accuracy metrics.
    - Save the accuracy comparison results to `accuracy_comparison.csv`.
+  
+For more details, refer to the [REPORT.pdf](REPORT.pdf) and [Explanation Video.mp4](Explanation%20Video.mp4).
 
 ## Dependencies
 
@@ -32,4 +34,4 @@ Ensure you have the following dependencies installed:
 ```sh
 pip install pandas easyocr whisper pydub torchaudio
 
-For more details, refer to the [REPORT.pdf](REPORT.pdf) and [Explanation Video.mp4](Explanation%20Video.mp4).
+
