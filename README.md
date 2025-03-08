@@ -25,7 +25,7 @@ The program includes steps for finding common files between audio and image data
    - Compare the extracted and transcribed texts to calculate accuracy metrics.
    - Save the accuracy comparison results to `accuracy_comparison.csv`.
   
-For more details, refer to the [REPORT.pdf](REPORT.pdf) and [Explanation Video.mp4](Explanation%20Video.mp4).
+For more details, refer to the [README.pdf](README.pdf) and [Explanation Video.mp4](Explanation%20Video.mp4).
 
 ## Dependencies
 
