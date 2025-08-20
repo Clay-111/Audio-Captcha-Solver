@@ -4,7 +4,7 @@
 
 # ⏩ Video Explanation
 
-⏩ Live Video Link: [https://youtu.be/BMsZLLyWoKg](https://youtu.be/Q93pBvTaa3Q)
+⏩ Live Video Link: https://youtu.be/Q93pBvTaa3Q
 
 ⏩ Download the video here: [Explanation Video.mp4](Explanation_Video.mp4).
 
