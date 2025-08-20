@@ -1,9 +1,20 @@
-# Audio Captcha Solver
+# 📖 Audio Captcha Solver
 
-This file contains the main workflow for processing and evaluating audio CAPTCHA data. 
+---
+
+# ⏩ Video Explanation
+
+⏩ Live Video Link: [https://youtu.be/BMsZLLyWoKg](https://youtu.be/Q93pBvTaa3Q)
+
+⏩ Download the video here: [Explanation Video.mp4](Explanation_Video.mp4).
+
+---
+
+
+## 🚀 Workflow
+
+This is the main workflow for processing and evaluating audio CAPTCHA data. 
 The program includes steps for finding common files between audio and image datasets, extracting text from images, transcribing audio files, and comparing the accuracy of the transcriptions.
-
-## Workflow
 
 1. **Finding Common Files**
    - Identify common files between the audio and image datasets.
@@ -25,7 +36,7 @@ The program includes steps for finding common files between audio and image data
    - Compare the extracted and transcribed texts to calculate accuracy metrics.
    - Save the accuracy comparison results to `accuracy_comparison.csv`.
   
-For more details, refer to the [README.pdf](README.pdf) and [Explanation Video.mp4](Explanation_Video.mp4).
+
 
 ## Dependencies
 
