@@ -1,4 +1,4 @@
-# 📖 Audio Captcha Solver
+# 🔊 Audio Captcha Solver
 
 ---
 
