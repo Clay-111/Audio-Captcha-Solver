@@ -1,4 +1,4 @@
-########### AUDIO DECODE ###########
+############ AUDIO DECODE ############
 
 
 import whisper
