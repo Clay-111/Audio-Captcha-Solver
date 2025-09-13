@@ -1,4 +1,4 @@
-########### FIND COMMON FILES ###########
+############ FIND COMMON FILES ############
 
 import os
 import csv
