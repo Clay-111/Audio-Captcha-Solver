@@ -6,7 +6,7 @@
 
 ⏩ Demo Video Link: https://youtu.be/Q93pBvTaa3Q
 
-⏩ Download the video here: [Explanation Video.mp4](Explanation_Video.mp4).
+⏩ Download the video here: [Explanation Video.mp4](Explanation_Video.mp4)
 
 ---
 
