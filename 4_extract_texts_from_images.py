@@ -1,4 +1,4 @@
-########### IMAGE EXTRACTION ###########
+############ IMAGE EXTRACTION ############
 
 
 import easyocr
